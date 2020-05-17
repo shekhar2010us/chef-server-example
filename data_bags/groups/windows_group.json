@@ -1,0 +1,5 @@
+{
+  "id": "windows_group",
+  "members": ["windows_user"],
+  "platform": "windows"
+}

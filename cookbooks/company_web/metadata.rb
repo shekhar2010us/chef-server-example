@@ -1,0 +1,11 @@
+name 'company_web'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'All Rights Reserved'
+description 'Installs/Configures company_web'
+long_description 'Installs/Configures company_web'
+version '0.1.0'
+chef_version '>= 14.0'
+depends 'apache'
+depends 'myiis'
+

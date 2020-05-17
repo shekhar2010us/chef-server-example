@@ -1,0 +1,7 @@
+{
+  "id": "centos_group",
+  "members": ["centos_user"],
+  "platform": "centos"
+}
+
+
